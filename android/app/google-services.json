@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "661993197687",
+    "project_id": "hit-bdd",
+    "storage_bucket": "hit-bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661993197687:android:91cc6c09858205429e3672",
+        "android_client_info": {
+          "package_name": "and.hit.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661993197687-a1onqok9vs5v1cdb4kkvqbjpbb562ou0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCZwwTqfp3PnAzQmAIaFAYaj3_ATbOTx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661993197687-a1onqok9vs5v1cdb4kkvqbjpbb562ou0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661993197687-im7h7mhi3qgd7bpu785enf5lrk8oh8ma.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.Hit.fr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
