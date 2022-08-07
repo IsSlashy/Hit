@@ -1,16 +1,9 @@
-# firebase_authentication_tutorial
-
+# Hit
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Project is a clone of spotify fully working with some features that im implementing every month,it is my best creation so far i hope i will terminate it.
+if you enjoy that type of content give dm me on what ever social media related to my username if you need a new features or a app for your buissness and idea i can do it for free if its not to complicated but if its need a work a good money follows :)
+Have a Nice day !
